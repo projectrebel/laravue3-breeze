@@ -1,7 +1,7 @@
 <template>
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 sm:mt-0 container">
       <h2 class="text-center font-bold tracking-wide uppercase mb-4">Introducing</h2>
-      <img class="max-w-full mb-8" src="/images/laravue3-logo.png" alt="Laravue logo" />
+      <img class="max-w-full mb-8" src="/images/laravue3-breeze-logo.png" alt="Laravue logo" />
       <h1 class="text-2xl text-gray-700 text-center mb-12">
           A project template featuring 
           <a class="underline font-bold" href="https://laravel.com" target="_blank">Laravel</a>, 
