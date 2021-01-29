@@ -4,11 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
-    "content-hash": "4a16c3c541bd99241cab1c21ce8e83ac",
-=======
     "content-hash": "17c4ac52635da2dc306dd745393d5c18",
->>>>>>> develop
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -4870,8 +4866,6 @@
     ],
     "packages-dev": [
         {
-<<<<<<< HEAD
-=======
             "name": "brianium/paratest",
             "version": "v6.1.2",
             "source": {
@@ -4952,7 +4946,6 @@
             "time": "2020-12-15T11:41:54+00:00"
         },
         {
->>>>>>> develop
             "name": "doctrine/instantiator",
             "version": "1.4.0",
             "source": {
@@ -5391,8 +5384,6 @@
             "time": "2020-07-09T08:09:16+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "laravel/breeze",
             "version": "v1.0.2",
             "source": {
@@ -5449,7 +5440,6 @@
             "time": "2021-01-05T16:01:28+00:00"
         },
         {
->>>>>>> develop
             "name": "laravel/sail",
             "version": "v1.3.0",
             "source": {

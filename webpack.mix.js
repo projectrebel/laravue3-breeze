@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-const mix = require('laravel-mix');
-
-=======
 const mix = require("laravel-mix");
->>>>>>> develop
 
 /*
  |--------------------------------------------------------------------------
@@ -18,14 +13,6 @@ const mix = require("laravel-mix");
 
 mix.browserSync({
     proxy: process.env.APP_URL,
-<<<<<<< HEAD
-    notify: false
-});
-mix.js('resources/js/app.js', 'public/js').vue();
-mix.postCss('resources/css/app.css', 'public/css', [
-        require('tailwindcss'),
-    ]);
-=======
     notify: false,
 });
 mix.js("resources/js/app.js", "public/js").vue();
@@ -34,4 +21,3 @@ mix.postCss("resources/css/app.css", "public/css", [
     require("tailwindcss"),
     require("autoprefixer"),
 ]);
->>>>>>> develop

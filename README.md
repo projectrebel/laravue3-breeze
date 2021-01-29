@@ -5,19 +5,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p> -->
 
-<<<<<<< HEAD
-![image](public/images/laravue3-logo.png)
-
-## A project template featuring Laravel, Vue 3, and TailwindCSS
-
-For all the tinkerers who just want to code, get your next project up and running in a flash with this preconfigured Laravel + Vue + TailwindCSS stack. Just clone and start building!
-=======
 ![image](public/images/laravue3-breeze-logo.png)
 
 ## A project template featuring Laravel, Vue 3, and TailwindCSS
 
 For all the tinkerers who just want to code, get your next project up and running in a flash with this preconfigured Laravel + Vue + TailwindCSS stack. Just clone and start building! Laravue3 comes in 3 different flavors. This version includes basic authentication provided by the Laravel Breeze package.
->>>>>>> develop
 
 ## Installation
 Getting started is super simple. Just run the following commands.

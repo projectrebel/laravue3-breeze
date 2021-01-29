@@ -546,8 +546,6 @@ video {
   height: auto;
 }
 
-<<<<<<< HEAD
-=======
 
       [type='text'],
       [type='email'],
@@ -745,7 +743,6 @@ select {
   outline: 1px auto -webkit-focus-ring-color;
 }
 
->>>>>>> develop
 .container {
   width: 100%;
 }
@@ -14579,8 +14576,6 @@ select {
   opacity: 1;
 }
 
-<<<<<<< HEAD
-=======
 .disabled\:opacity-0:disabled {
   opacity: 0;
 }
@@ -14641,7 +14636,6 @@ select {
   opacity: 1;
 }
 
->>>>>>> develop
 .outline-none {
   outline: 2px solid transparent;
   outline-offset: 2px;
@@ -45264,8 +45258,6 @@ select {
     opacity: 1;
   }
 
-<<<<<<< HEAD
-=======
   .sm\:disabled\:opacity-0:disabled {
     opacity: 0;
   }
@@ -45326,7 +45318,6 @@ select {
     opacity: 1;
   }
 
->>>>>>> develop
   .sm\:outline-none {
     outline: 2px solid transparent;
     outline-offset: 2px;
@@ -75871,8 +75862,6 @@ select {
     opacity: 1;
   }
 
-<<<<<<< HEAD
-=======
   .md\:disabled\:opacity-0:disabled {
     opacity: 0;
   }
@@ -75933,7 +75922,6 @@ select {
     opacity: 1;
   }
 
->>>>>>> develop
   .md\:outline-none {
     outline: 2px solid transparent;
     outline-offset: 2px;
@@ -106478,8 +106466,6 @@ select {
     opacity: 1;
   }
 
-<<<<<<< HEAD
-=======
   .lg\:disabled\:opacity-0:disabled {
     opacity: 0;
   }
@@ -106540,7 +106526,6 @@ select {
     opacity: 1;
   }
 
->>>>>>> develop
   .lg\:outline-none {
     outline: 2px solid transparent;
     outline-offset: 2px;
@@ -137085,8 +137070,6 @@ select {
     opacity: 1;
   }
 
-<<<<<<< HEAD
-=======
   .xl\:disabled\:opacity-0:disabled {
     opacity: 0;
   }
@@ -137147,7 +137130,6 @@ select {
     opacity: 1;
   }
 
->>>>>>> develop
   .xl\:outline-none {
     outline: 2px solid transparent;
     outline-offset: 2px;
@@ -167692,8 +167674,6 @@ select {
     opacity: 1;
   }
 
-<<<<<<< HEAD
-=======
   .\32xl\:disabled\:opacity-0:disabled {
     opacity: 0;
   }
@@ -167754,7 +167734,6 @@ select {
     opacity: 1;
   }
 
->>>>>>> develop
   .\32xl\:outline-none {
     outline: 2px solid transparent;
     outline-offset: 2px;
