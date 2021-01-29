@@ -1,0 +1,1 @@
+import Home from '../../resources/js/components/Home.vue';
